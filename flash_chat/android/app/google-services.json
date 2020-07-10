@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146015357836",
+    "firebase_url": "https://flash-chat-d1341.firebaseio.com",
+    "project_id": "flash-chat-d1341",
+    "storage_bucket": "flash-chat-d1341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146015357836:android:9715bc27bc713d083564a9",
+        "android_client_info": {
+          "package_name": "com.divya.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146015357836-6lc06lv36tvjgnqoe0lheb9hclbim45r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvOYWED5bOy_qbUA69dadtHI2owLmrnIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146015357836-6lc06lv36tvjgnqoe0lheb9hclbim45r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
